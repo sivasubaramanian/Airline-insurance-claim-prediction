@@ -64,7 +64,7 @@ Packages used in job prediction are as follows –
 3) Matplotlib
 4) Sklearn
 
-#Methodology 
+# Methodology 
 
 In this study, we have implemented some of the classifications algorithm for job 
 prediction system. Here we have implemented classification algorithms like using 
@@ -120,7 +120,7 @@ used to solve classification and regression problems. It creates decision trees
 from various samples, using the majority vote for classification and the 
 average for regression
 
-#Conclusion –
+# Conclusion –
 
 After finding all the accuracy and error values, finally we have concluded that 
 Random Forest is the best algorithm for predicting the values. As Random Forest 
